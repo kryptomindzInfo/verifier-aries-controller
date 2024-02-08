@@ -1,0 +1,14 @@
+{
+  "ACADEMIC": {
+    "schema": "st2iMMGGpecqDS5eQp7G2:2:academic:1.0",
+    "definition": "st2iMMGGpecqDS5eQp7G2:3:CL:225574:kmindz degree"
+  },
+  "LICENSE": {
+    "schema": "st2iMMGGpecqDS5eQp7G2:2:driving license:1.0",
+    "definition": "st2iMMGGpecqDS5eQp7G2:3:CL:225575:kmindz driving license"
+  },
+  "MEMBERSHIP": {
+    "schema": "st2iMMGGpecqDS5eQp7G2:2:membership card:1.0",
+    "definition": "st2iMMGGpecqDS5eQp7G2:3:CL:225576:kmindz membership card"
+  }
+}
