@@ -1,14 +1,11 @@
 {
   "ACADEMIC": {
-    "schema": "st2iMMGGpecqDS5eQp7G2:2:academic:1.0",
-    "definition": "st2iMMGGpecqDS5eQp7G2:3:CL:225574:kmindz degree"
+    "definition": "FeKJXfbPNzMZ8SVST3gzYS:3:CL:224647:lattice degree"
   },
   "LICENSE": {
-    "schema": "st2iMMGGpecqDS5eQp7G2:2:driving license:1.0",
-    "definition": "st2iMMGGpecqDS5eQp7G2:3:CL:225575:kmindz driving license"
+    "definition": "FeKJXfbPNzMZ8SVST3gzYS:3:CL:224648:lattice driving license"
   },
   "MEMBERSHIP": {
-    "schema": "st2iMMGGpecqDS5eQp7G2:2:membership card:1.0",
-    "definition": "st2iMMGGpecqDS5eQp7G2:3:CL:225576:kmindz membership card"
+    "definition": "FeKJXfbPNzMZ8SVST3gzYS:3:CL:224649:lattice membership card"
   }
 }

@@ -1,1 +1,1 @@
-HOST = "https://acme2.backend.kmindzwallet.com";
+HOST = "https://api.verifier.citizenidentity.demo.latticelabs.io";
